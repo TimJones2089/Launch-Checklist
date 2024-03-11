@@ -1,10 +1,9 @@
-// Write your JavaScript code here!
+
 
 
 
 window.addEventListener("load", function() {
-    // console.log(myFetch());
-    // console.log(pickPlanet());
+   
  
     let listedPlanets;
     // Set listedPlanetsResponse equal to the value returned by calling myFetch()
